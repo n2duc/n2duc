@@ -4,8 +4,6 @@
 
 <br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
-
 ### ***📊 About Me***
 
 * 🌱 I'm learning ***Javascript*** and ***ReactJS*** 😍
