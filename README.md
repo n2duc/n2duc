@@ -8,7 +8,7 @@
 
 * 🌱 I'm learning ***Javascript*** and ***ReactJS*** 😍
 * 🏆 I wish I had ***1 billion VND*** to build a house for my parents 🤭
-* 📫 Ask me anything you want [**here**](https://www.facebook.com/ngocduc.n2d), and I'm still lonely 😉
+* 📫 Ask me anything you want, and I'm still lonely 😉
 * 😄 If you only do what you can do, you will never be more than who you are. **𝙈𝙖𝙨𝙩𝙚𝙧 𝙎𝙝𝙞𝙛𝙪**
 
 <br>
