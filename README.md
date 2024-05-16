@@ -4,8 +4,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,vue,sass,tailwind,redux,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,postman,mysql,figma,ps,pr,ai,git" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,vue,sass,tailwind,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,vscode,git,postman,mysql,figma,ps,pr,ai" />
 </div>
 
 ### ***🔥 GitHub Stats 🔥***
