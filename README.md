@@ -12,6 +12,7 @@ Software Engineer / Web Developer
 * 🧠  I'm learning Nest, Solidity, Vue
 * 🤝  I'm open to collaborating on community service projects
 <br>
+
 ### ***🛠 Tools & Technologies***
 <br/>
 <div align="center">
