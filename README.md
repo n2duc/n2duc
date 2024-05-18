@@ -1,4 +1,16 @@
-🏆 Хоанг Са Чыонг Са принадлежит Вьетнаму. Пошел ты, китайская мать, соси мой член.
+![Profile View](https://komarev.com/ghpvc/?username=phamleduy04&style=flat-square)
+
+Hi 👋 My name is Nguyen Ngoc Duc
+============================
+Software Engineer / Web Developer
+------------------------------------------------
+🎓 Soon to be grad with a Bachelor's degree in Software Engineering. (June 2025)
+
+* 🌍  I'm based in Da Nang - Viet Nam
+* ✉️  You can contact me at [ngocduc8122002@gmail.com](mailto:ngocduc8122002@gmail.com)
+* 🚀  I'm currently studying at [ Duy Tan University](https://is.duytan.edu.vn/)
+* 🧠  I'm learning Nest, Solidity, Vue
+* 🤝  I'm open to collaborating on community service projects
 <br>
 ### ***🛠 Tools & Technologies***
 <br/>
