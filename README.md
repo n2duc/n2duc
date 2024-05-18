@@ -1,4 +1,4 @@
-![Profile View](https://komarev.com/ghpvc/?username=phamleduy04&style=flat-square)
+![Profile View](https://komarev.com/ghpvc/?username=n2duc&style=for-the-badge)
 
 Hi 👋 My name is Nguyen Ngoc Duc
 ============================
