@@ -4,11 +4,11 @@ Hi 👋 My name is Nguyen Ngoc Duc
 ============================
 Software Developer / Web Developer
 ------------------------------------------------
-🎓 Soon to be grad with a Bachelor's degree in Software Engineering. (June 2025)
+🎓 Graduate with a Bachelor's degree in Software Engineering. (June 2025)
 
 * 🌍  I'm based in Da Nang - Viet Nam
 * ✉️  You can contact me at [ngocduc8122002@gmail.com](mailto:ngocduc8122002@gmail.com)
-* 🚀  I'm currently studying at [ Duy Tan University](https://is.duytan.edu.vn/)
+* 🚀  I'm currently working at [River Flow Solutions](https://riverflow.solutions/)
 * 🧠  I'm learning Next.js, Nest, Vue and more
 * 🤝  I'm open to collaborating on community service projects
 ------------------------------------------------
@@ -16,7 +16,7 @@ Software Developer / Web Developer
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,html,css,discordjs" /><br>
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,vue,sass,tailwind,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,vue,sass,tailwind,redux" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,vscode,git,postman,mysql,figma,ps,pr,ai" />
 </div>
 
